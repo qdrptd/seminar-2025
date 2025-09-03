@@ -7,7 +7,7 @@
 ---
 
 ## Rookies
-
+ㅁㄴㅇㄹ
 | 이름 | GitHub Email | 1지망 | 2지망 | 3지망 |
 | :--- | :--- | :--- | :--- | :--- |
 | (예시) 김정훈 | junghoonkim@snu.ac.kr | spring | frontend | iOS |
